@@ -288,7 +288,7 @@ public class MainActivity extends AppCompatActivity {
             }
 
         }
-//hi 
+//hi
         number=string.substring(start,last);
 
         return number;
